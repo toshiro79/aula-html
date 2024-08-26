@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+}
+
+.h1 {
+    color: black;
+}
+
+.sublinhado {
+    text-decoration: underline;
+}
+
+#h1 {
+    color: green;
+}
