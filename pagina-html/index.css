@@ -1,0 +1,22 @@
+header {
+    border: 1px solid black;
+    display: flex;
+}
+
+.header-logo {
+    border: 1px solid red;
+    width: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.header-logo img{
+   width: 80px;
+}
+.header-info {
+    border: 1px solid blue;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
